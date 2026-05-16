@@ -14,6 +14,8 @@
 
 ---
 
+## 🌐 Connect With Me
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
@@ -33,19 +35,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
-  <a href="https://twitter.com/majiakas47061" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  
-  <a href="https://linkedin.com/in/akas-maji" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  
-  <a href="https://leetcode.com/ox_akas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Languages & Tools
