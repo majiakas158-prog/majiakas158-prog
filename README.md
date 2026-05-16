@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech Student
+- 🎓 Diploma Student
 - 🌱 Currently learning Backend Development
 - 💡 Interested in Web Development & Open Source
 - ⚡ Exploring Node.js, MongoDB & React
