@@ -19,22 +19,40 @@
 
 <p align="center">
   <a href="https://twitter.com/majiakas47061" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+      alt="Twitter" 
+      height="45" 
+      width="45" 
+    />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/akas-maji" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      height="45" 
+      width="45" 
+      style="margin-left:25px; margin-right:25px;"
+    />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/ox_akas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+      alt="LeetCode" 
+      height="45" 
+      width="45" 
+    />
   </a>
 </p>
----
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Java+%7C+SQL;Always+Learning+New+Things" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ## 🛠️ Languages & Tools
 
